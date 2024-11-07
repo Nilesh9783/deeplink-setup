@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.gulmohargreens",
-      "sha256_cert_fingerprints":
-   ["B6:43:01:1D:D0:2C:C0:8B:43:07:63:E8:0D:F2:CD:46:06:B8:62:50:40:89:4E:4E:42:DF:FF:44:AE:E2:C7:F5"]
-    }
-}]
